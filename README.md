@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **zainkanji2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13HyifgdR-dGFmexbeguTR4gBhW5NGjRO/view?usp=sharing](https://drive.google.com/file/d/13HyifgdR-dGFmexbeguTR4gBhW5NGjRO/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-zain-9661a41b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zain-9661a41b5/" height="30" width="40" /></a>
