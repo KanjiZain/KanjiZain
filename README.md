@@ -65,7 +65,3 @@
 ![kanjizain's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanjizain\&theme=nord)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanjizain&label=Profile%20views&color=0e75b6&style=flat" alt="kanjizain" />
-</p>
