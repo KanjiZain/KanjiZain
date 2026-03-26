@@ -41,7 +41,7 @@
 
 <!-- DevOps -->
 
-<b>DevOps & Cloud:</b><br/> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50"/></code></a>
+<b>DevOps & Cloud:</b><br/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50"/></code></a>
 
 <br/><br/>
 
