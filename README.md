@@ -33,6 +33,4 @@
 
 <br/>
 
-![kanjizain's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanjizain\&theme=nord)
-
 ---
