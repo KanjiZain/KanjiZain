@@ -23,39 +23,6 @@
 
 <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/></code></a>
 
-
-<!-- Frontend -->
-
-<b>Frontend:</b><br/> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50"/></code></a>
-
-<br/><br/>
-
-<!-- Backend -->
-
-<b>Backend:</b><br/> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/></code></a>
-
-<br/><br/>
-
-<!-- Mobile -->
-
-<b>Mobile Development:</b><br/> <a href="#"><code><img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50"/></code></a>
-
-<br/><br/>
-
-<!-- DevOps -->
-
-<b>DevOps & Cloud:</b><br/></code></a> <a href="#"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50"/></code></a>
-
-<br/><br/>
-
-<!-- Tools -->
-
-<b>Tools & Design:</b><br/> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/></code></a> <a href="#"><code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/></code></a>
-
-</p>
-
----
-
 ## ✨ GitHub Stats :
 
 <div align="center">
